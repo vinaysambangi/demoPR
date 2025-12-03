@@ -1,1 +1,4 @@
-this lines written in new branch
+## Current Status
+- Feature A: Done
+- Feature B: Pending
+- Feature C: Planned
